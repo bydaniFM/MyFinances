@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegisterCollection>
+  <Registers>
+    <Register name = "Initial1">
+      <value>20</value>
+    </Register>
+    <Register name = "Initial2">
+      <value>30</value>
+    </Register>
+    <Register name = "Initial3">
+      <value>-10</value>
+    </Register>
+  </Registers>
+</RegisterCollection>

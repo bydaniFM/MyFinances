@@ -75,12 +75,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\AppManager.cs" />
-    <Compile Include="Assets\Scripts\Data.cs" />
-    <Compile Include="Assets\Scripts\DataLoader.cs" />
+    <Compile Include="Assets\Resources\AppManager.cs" />
+    <Compile Include="Assets\Resources\DataLoader.cs" />
+    <Compile Include="Assets\Resources\Register.cs" />
+    <Compile Include="Assets\Resources\RegisterCollection.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Scripts\Data.xml" />
+    <None Include="Assets\Resources\Data.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
